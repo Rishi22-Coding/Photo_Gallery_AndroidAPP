@@ -9,8 +9,8 @@ const ImageExtractor = ({data}) => {
       {/* <ImageBackground onPress={() => Linking.openURL(data.urls.regular)}> */}
         <Image
           style={tw`h-72 w-full rounded-lg shadow-md`}
-          source={data.urls.small}
-          accessibilityLabel={data.alt_description}
+          source={{uri: `${data.urls.small}`}}
+          // accessibilityLabel={data.alt_description}
         />
       {/* </ImageBackground> */}
     </View>
