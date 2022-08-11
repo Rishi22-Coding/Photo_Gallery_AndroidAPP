@@ -5,7 +5,7 @@ import SearchBar from './src/components/SearchBar';
 import Images from './src/components/Images';
 import ImageState from './src/context/ImageState';
 import {REACT_APP_ACCESS_KEY} from "react-native-dotenv";
-const {plugin} = require('twrnc');
+import tw from 'twrnc';
 
 const App = () => {
   // const postURL = process.env.REACT_APP_ACCESS_KEY;
@@ -13,7 +13,7 @@ const App = () => {
 
   return (
     <ImageState>
-      <View style={{height: "100%", plugin}}>
+      <View style={tw `h-full`}>
         <NavBar>
           <SearchBar />
         </NavBar>

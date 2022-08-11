@@ -11,12 +11,12 @@ const Images = () => {
     <>
       <ScrollView style={tw `bg-gray-700`}>
         <View>
-          <Text style={tw.style({fontSize: 30}, 'text-white', 'text-center', 'my-2', 'font-manrope')}>
+          <Text style={tw.style({fontSize: 30}, 'text-white', 'text-center', 'my-2')}>
             Results for {searchImage || "computer"}
           </Text>
         </View>
         <View
-          style={tw`mx-2`}>
+          style={tw `md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 px-3 my-1`}>
           {isLoading ? (
             <ImageLoader item={20} />
           ) : (

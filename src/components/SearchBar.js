@@ -13,7 +13,7 @@ const SearchBar = () => {
 
   const handleSearchButton = () => {
     console.log("Test Image " + JSON.stringify(searchValue));
-    fetchData(`search/photos?page=1&query=${searchValue}&client_id=eNh31naV2uUDatoVFeZqZa508T_YujG9_4i6uUIyow0&per_page=20`);
+    fetchData(`search/photos?page=1&query=${searchValue}&client_id=eNh31naV2uUDatoVFeZqZa508T_YujG9_4i6uUIyow0&per_page=30`);
     setSearchValue("");
     setSearchImage(searchValue);
   }
