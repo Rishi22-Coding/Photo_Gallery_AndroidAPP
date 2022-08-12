@@ -1,6 +1,6 @@
 # A PHOTO GALLERY WITH SEARCH
 
-- Technology Stack -> Javascript, React Library, React-Native Framework, React Context API, Axios Library, Tailwind CSS, Unsplash API.
+- Technology Stack -> Javascript, React Library, React-Native Framework, React Context API, Axios Library, Tailwind CSS, Unsplash API, Android-Studio, Java.
 
 # Functionalities
 
