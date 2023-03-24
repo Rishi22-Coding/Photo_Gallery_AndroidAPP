@@ -1,7 +1,7 @@
 # Screenshots
-[Default Result](https://drive.google.com/file/d/1RfE_7r-koAh3Temu8vWLPPJQPbvLqyCx/view?usp=share_link)
-[Result For Cats](https://drive.google.com/file/d/1RXC25cAHSH1sPLGiqeivBkgPLsIFNWWQ/view?usp=share_link)
-[Result For Dogs End of the List](https://drive.google.com/file/d/1RfE_7r-koAh3Temu8vWLPPJQPbvLqyCx/view?usp=share_link)
+- [Default Result](https://drive.google.com/file/d/1RfE_7r-koAh3Temu8vWLPPJQPbvLqyCx/view?usp=share_link)
+- [Result For Cats](https://drive.google.com/file/d/1RXC25cAHSH1sPLGiqeivBkgPLsIFNWWQ/view?usp=share_link)
+- [Result For Dogs End of the List](https://drive.google.com/file/d/1RfE_7r-koAh3Temu8vWLPPJQPbvLqyCx/view?usp=share_link)
 
 # A PHOTO GALLERY WITH SEARCH
 
